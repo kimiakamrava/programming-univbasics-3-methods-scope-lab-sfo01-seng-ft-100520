@@ -17,4 +17,5 @@ def link
 end
 link
 
-def all_ph
+def all_phrases
+  puts 
