@@ -10,3 +10,7 @@ def toadstool
   puts status
 end
 toadstool
+
+def link 
+  status= 'im going'
+  puts ""
