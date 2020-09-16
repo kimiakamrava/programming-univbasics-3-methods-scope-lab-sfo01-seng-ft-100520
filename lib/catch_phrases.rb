@@ -13,4 +13,6 @@ toadstool
 
 def link 
   status= 'im going'
-  puts 
+  puts "It's Dangerous To Go Alone! Take This."
+end
+link
