@@ -13,4 +13,4 @@ toadstool
 
 def link 
   status= 'im going'
-  puts ""
+  puts 
