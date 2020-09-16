@@ -17,4 +17,4 @@ def link
 end
 link
 
-def 
+def all_ph
