@@ -18,4 +18,4 @@ end
 link
 
 def all_phrases
-  puts ""
+  puts 
