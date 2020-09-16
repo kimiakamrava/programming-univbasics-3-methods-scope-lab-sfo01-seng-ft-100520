@@ -18,4 +18,4 @@ end
 link
 
 def all_phrases
-  puts  "It's-a me, Mario!" .
+  puts  "It's-a me, Mario!" .'Thank You Mario! But Our Princess Is In Another Castle!'
